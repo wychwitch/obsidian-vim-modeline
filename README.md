@@ -1,5 +1,7 @@
-# Obsidian Sample Plugin
 
+
+# Obsidian Sample Plugin
+[Obsidian Plugin Docs](https://docs.obsidian.md/Plugins/Getting+started/Build+a+plugin)
 This is a sample plugin for Obsidian (https://obsidian.md).
 
 This project uses Typescript to provide type checking and documentation.
